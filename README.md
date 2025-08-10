@@ -10,6 +10,7 @@ COVID Tracker App is a Flutter application that provides real-time statistics an
 - Search and filter countries
 - About and information screens
 - Modern UI with custom icons and images
+- Light and dark theme based on system settings
 
 ## Screenshots
 
